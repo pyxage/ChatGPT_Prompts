@@ -1,0 +1,12 @@
+AI Prompts for Creating Headers and Subheadings
+Here are some prompts you could use with ChatGPT-3 to generate ideas for headings such as h1, h2, and h3:
+
+Generate a list of potential h1 headers for this topic: [insert topic]
+Write a list of potential h3 headers for this topic: [insert topic]
+Write a list of potential subheadings for this topic: [insert topic]
+Write a list of potential section titles for this topic: [insert topic]
+Write a list of potential chapter titles for this topic: [insert topic]
+Write a list of potential titles for sections or chapters within this topic: [insert topic]
+Write a list of potential headers that include a question: [insert topic]
+Write a list of potential headers that include a statistic or fact: [insert topic]
+Write a list of potential headers that include a list or number: [insert topic]
